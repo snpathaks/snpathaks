@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shalini Pathak
+# Hi there! 👋 I'm Shalini Pathak.
 
 <h3 align = "center">A sophomore B.Tech CSE student</h3>
 
@@ -64,5 +64,5 @@
 </div>
 
 <!-- GitHub Contribution Graph -->
-## 📈 GitHub Activity Graph:
+##📈 GitHub Activity Graph:-
 [![Ajitashwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
