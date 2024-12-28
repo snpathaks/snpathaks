@@ -14,7 +14,7 @@
 - 🎮 I'm currently working on basic projects
 - 🌱 I'm currently learning Data Structures & Algorithms and involved in Machine Learning
 - 👨‍💻 All of my projects are available at (https://github.com/snpathaks)
-- 💬 Ask me about Machine Learning, Python, and C++
+- 💬 Ask me about Machine Learning, Python and C++.
 - 📫 How to reach me - (pathakshalini266@gmail.com)
 
 ## 🌐 Connect With Me:
@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </div>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Status:
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snpathaks&show_icons=true&theme=dark)
 ## 📊 Statistics and Language Usage
