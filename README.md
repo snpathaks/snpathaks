@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Shalini.
+## Hi there! 👋 I'm Shalini Pathak.
 
 <h3 align = "center">A sophomore B.Tech CSE student</h3>
 
