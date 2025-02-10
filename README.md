@@ -54,7 +54,7 @@
 ## 📊 GitHub Status:
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snpathaks&show_icons=true&theme=dark)
-## 📊 Statistics and Language Usage
+# 📊 Statistics and Language Usage
 
 <!-- Language Usage Stats -->
 <div align="left">
