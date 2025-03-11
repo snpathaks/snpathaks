@@ -58,7 +58,7 @@
 
 <!-- Language Usage Status -->
 <div align="left">
-  <img src="https://github-readme-status.vercel.app/api/top-langs/?username=snpathaks&layout=compact&theme=navy&hide_border=true&card_width=450&title_color=9932CC&text_color=9932CC&bg_color=9932CC&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-status.vercel.app/api/top-langs/?username=snpathaks&layout=compact&theme=navy&hide_border=true&card_width=450&title_color=ffffff&text_color=9932CC&bg_color=9932CC&langs_count=6" alt="Most Used Languages" />
 </div>
 
 <!-- GitHub Contribution Graph -->
