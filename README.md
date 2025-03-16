@@ -1,6 +1,6 @@
 # Hello👋 , I'm Shalini.
 # 💫 About Me:
-I'm working on basic projects📑 .<br>I'm currently learning AI and ML 🤖.<br>
+I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 
 
 ## 🌐 Socials:
