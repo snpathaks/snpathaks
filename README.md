@@ -30,6 +30,11 @@ I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 [![Ajitashwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
 
 <h3 align="left">GitHub Contributions:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <img src="https://github.com/snpathaks/snpathaks/blob/output/github-snake-dark.svg" alt="snake svg" />
 
 
