@@ -28,3 +28,8 @@ I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 <!-- GitHub Contribution Graph -->
 ##📈 GitHub Activity Graph:-
 [![Ajitashwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
+
+<h3 align="left">GitHub Contributions:</h3>
+<img src="https://github.com/Arghya-Dutta1/snpathaks/blob/output/github-snake-dark.svg" alt="snake svg" />
+
+
