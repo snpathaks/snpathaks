@@ -29,9 +29,7 @@ I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 ##📈 GitHub Activity Graph:-
 [![Ajitashwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
 
-<h3 align="left">GitHub Contributions:</h3>
-![GitHub Snake Light](https://raw.githubusercontent.com/<snpathaks>/<snpathaks>/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/<snpathaks>/<snpathaks>/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
