@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20views&color=0e75b6&style=flat" alt="arghya-dutta1" /> </p>
-<h1 align="center">Hi 👋, I'm Shalini</h1>
+<h1 align="center">Hi 👋, I'm Shalini </h1>
 # 💫<b>About Me:</b><br>
 I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 
