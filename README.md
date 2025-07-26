@@ -17,7 +17,7 @@ I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=snpathaks&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=snpathaks&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
