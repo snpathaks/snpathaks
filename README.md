@@ -1,5 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20views&color=0e75b6&style=flat" alt="arghya-dutta1" /> </p>
-<h1 align="center">Hi 👋, I'm Shalini </h1> ![ComputerPressingGIF](https://github.com/user-attachments/assets/46c9794e-73a9-4354-980f-f8703089e65a)
+<h1 align="center">Hi 👋, I'm Shalini </h1> ![WorkingOhHeyGIF](https://github.com/user-attachments/assets/d3490931-2c18-4066-9d3f-bd37562e3b3a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3490931-2c18-4066-9d3f-bd37562e3b3a" alt="waving gif" />
+</p>
+
 
 # 💫<b>About Me:</b><br>
 I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
