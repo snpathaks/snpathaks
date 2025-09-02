@@ -1,10 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20views&color=0e75b6&style=flat" alt="arghya-dutta1" /> </p>
 <h1 align="center">Hi!👋, I'm Shalini  </h1>  
 <p align="center">
-  <img src=" https://github.com/user-attachments/assets/05b35bb9-fbdf-448f-8009-e521de7e2d53 " alt=" WorkingAtWork " >
+  <img src="./assets/work.gif" alt="Working At Work">
 </p>
-
-
 
 # 💫<b>About Me:</b><br>
 I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
