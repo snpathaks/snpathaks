@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20views&color=0e75b6&style=flat" alt="arghya-dutta1" /> </p>
 <h1 align="center">Hi!👋, I'm Shalini  </h1>  
+
 <p align="center">
-  <img src="./assets/work.gif" alt="Working At Work">
+  <img src="https://github.com/user-attachments/assets/9bd5bc10-a2ad-4993-b1e6-3a10d9f041ad" alt="Sae Nijima Typing GIF">
 </p>
 
 # 💫<b>About Me:</b><br>
