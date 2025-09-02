@@ -2,7 +2,7 @@
 <h1 align="center">Hi!👋, I'm Shalini  </h1>  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bd5bc10-a2ad-4993-b1e6-3a10d9f041ad" alt="Sae Nijima Typing GIF">
+  <img src="https://github.com/user-attachments/assets/9bd5bc10-a2ad-4993-b1e6-3a10d9f041ad" alt="Sae Nijima Typing GIF" width="50%">
 </p>
 
 # 💫<b>About Me:</b><br>
