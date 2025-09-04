@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/9bd5bc10-a2ad-4993-b1e6-3a10d9f041ad" alt="Sae Nijima Typing GIF" width="300" height="200">
 </p>
 
-# 💫<b>About Me:</b><br>
+## 💫<b>About Me:</b><br>
 I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
 
 
