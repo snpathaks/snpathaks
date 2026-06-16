@@ -1,11 +1,7 @@
+
 <div align="center">
-
-<!-- HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Shalini%20%F0%9F%91%8B&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20ML%20Explorer%20%F0%9F%A4%96&descAlignY=58&descSize=18&descColor=7dcfff&animation=twinkling" />
-
+  <img src="header.svg" alt="Hi There! I'm Shalini" />
 </div>
-
----
 
 <div align="center">
 
@@ -134,6 +130,6 @@ class Shalini:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-*Made with 💜 by Shalini | Powered by curiosity and caffeine ☕*
+
 
 </div>
