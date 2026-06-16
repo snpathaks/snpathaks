@@ -1,70 +1,139 @@
-
-
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FF206E,8338EC,3A86FF&height=200&section=header&text=Hi%20There!%20I%20am%20Shalini%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96&descAlignY=58&descSize=16" width="100%"/> -->
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF206E&center=true&vCenter=true&width=600&lines=Computer%20Science%20Engineering%20Student;AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96;Open-Source%20Contributor%20%40%20GSSoC;Turning%20Data%20Into%20Decisions%20%E2%9A%A1" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/shalinikumari11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pathakshalini266@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/snpathaks"><img src="https://img.shields.io/badge/GitHub-8338EC?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/snpathaks/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<!-- HEADER SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Shalini%20%F0%9F%91%8B&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20ML%20Explorer%20%F0%9F%A4%96&descAlignY=58&descSize=18&descColor=7dcfff&animation=twinkling" />
 
 </div>
 
-### Languages
-
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/snpathaks)
-[![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=cplusplus&logoColor=00599C)](https://github.com/snpathaks)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/snpathaks)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=ED8B00)](https://github.com/snpathaks)
-[![Go](https://img.shields.io/badge/-Go-000?&logo=Go)](https://github.com/snpathaks)
-
-### Frameworks & Libraries
-
-[![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)](https://github.com/snpathaks)
-[![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://github.com/snpathaks)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=FF6F00)](https://github.com/snpathaks)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)](https://github.com/snpathaks)
-[![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)](https://github.com/snpathaks)
-[![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)](https://github.com/snpathaks)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)](https://github.com/snpathaks)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS&logoColor=38B2AC)](https://github.com/snpathaks)
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://github.com/snpathaks)
-
-### Tools & Platforms
-
-[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)](https://github.com/snpathaks)
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)](https://github.com/snpathaks)
-[![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&logoColor=3FCF8E)](https://github.com/snpathaks)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://github.com/snpathaks)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/snpathaks)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626)](https://github.com/snpathaks)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=VisualStudioCode&logoColor=007ACC)](https://github.com/snpathaks)
-
-### Projects
-
-[![Speak Wise](https://img.shields.io/badge/-%F0%9F%97%A3%EF%B8%8F%20Speak%20Wise-000)](https://github.com/snpathaks?tab=repositories&q=speak)
-[![EcoContext VoxID](https://img.shields.io/badge/-%F0%9F%8E%99%EF%B8%8F%20EcoContext%20VoxID-000)](https://github.com/snpathaks/EcoContext-VoxID)
-
-### Open Source & Achievements
-
-[![GSSoC](https://img.shields.io/badge/-%F0%9F%8C%8D%20GSSoC%20%2725%20%26%20%2726-000)](https://github.com/snpathaks)
-[![DSA](https://img.shields.io/badge/-%F0%9F%A7%A9%20400%2B%20DSA%20Solved-000)](https://leetcode.com/u/snpathaks/)
-[![Hackathons](https://img.shields.io/badge/-%E2%9A%A1%205%2B%20Hackathons-000)](https://github.com/snpathaks)
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snpathaks&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,FF206E,8338EC,3A86FF,06FFA5&theme=graywhite" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpathaks&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=000&bg_color=0,06FFA5,3A86FF,8338EC,FF206E&theme=graywhite" height="165"/>
+### 🌸 *"Building tomorrow's intelligence, one commit at a time."* 🌸
 
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20views&color=0e75b6&style=flat)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/snpathaks?label=Follow&style=social)](https://github.com/snpathaks)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF,8338EC,FF206E&height=4&width=600" width="60%"/>
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Shalini:
+    name       = "Shalini Kumari"
+    username   = "snpathaks"
+    location   = "India 🇮🇳"
+    studying   = "Computer Science"
+    learning   = ["AI", "Machine Learning", "Deep Learning"]
+    building   = "cool projects that actually do something 🚀"
+    ask_me     = ["Python", "C++", "Data Structures", "ML basics"]
+    fun_fact   = "I debug with coffee ☕ and persistence 💪"
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinikumari4323/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snpathaks/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/pathakshalini266)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pathakshalxj1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Tools & Design**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snpathaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=snpathaks&theme=tokyonight&hide_border=false" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpathaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=snpathaks&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=snpathaks&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/snpathaks)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+*Made with 💜 by Shalini | Powered by curiosity and caffeine ☕*
 
 </div>
