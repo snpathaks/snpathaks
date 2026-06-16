@@ -1,44 +1,137 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20views&color=0e75b6&style=flat" alt="arghya-dutta1" /> </p>
-<h1 align="center">Hi!👋, I'm Shalini  </h1>  
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9bd5bc10-a2ad-4993-b1e6-3a10d9f041ad" alt="Sae Nijima Typing GIF" width="300" height="200">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF206E,8338EC,3A86FF&height=200&section=header&text=Hi%20There,%20I%27m%20Shalini%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96&descAlignY=58&descSize=16" width="100%"/>
 
-## 💫<b>About Me:</b><br>
-I'm working on basic projects📑.<br>I'm currently learning AI and ML 🤖.<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF206E&center=true&vCenter=true&width=600&lines=Computer%20Science%20Engineering%20Student;AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96;Open-Source%20Contributor%20%40%20GSSoC;Turning%20Data%20Into%20Decisions%20%E2%9A%A1" alt="Typing SVG" />
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalinikumari4323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinikumari11/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8338EC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snpathaks)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/snpathaks/)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snpathaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=snpathaks&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snpathaks&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=snpathaks&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### 🔝 Top Contributed Repo :
-![](https://github-contributor-stats.vercel.app/api?username=snpathaks&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** @ **Lovely Professional University**, Punjab (2023 – 2027)
+- 🤖 Currently exploring **Artificial Intelligence & Machine Learning** — from feature engineering to model deployment
+- 💼 Recently wrapped up an **AI/ML Internship** building a stock price forecasting system
+- 🌍 Active open-source contributor with **GSSoC '25 & GSSoC '26**
+- 🧩 Solved **400+ DSA problems** across LeetCode & GeeksforGeeks
+- ⚡ Participated in **5+ Hackathons**
+- 📫 Reach me at **pathakshalini266@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<br/>
+
+## 💡 Featured Projects
+
+### 🗣️ [Speak Wise — AI-Powered Presentation & Public Speaking Coach](https://github.com/snpathaks?tab=repositories&q=speak)
+An AI coach that helps users sharpen their communication skills by analyzing content, vocal delivery, and visual presentation, with real-time review powered by computer vision.
+- Analyzed structure and organization of presentation scripts
+- Real-time delivery review using **OpenCV** and **MediaPipe**
+- Delivered personalized, AI-driven feedback for confident, engaging speaking
+
+`Python` `OpenCV` `Flask` `HTML/CSS` `JavaScript` `Docker`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=snpathaks&icon=9&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎙️ [EcoContext VoxID — Voice Recognition with a Green Twist](https://github.com/snpathaks/EcoContext-VoxID)
+A voice recognition system with a colorful Tkinter interface for registering users, identifying voices, and simulating real-world environmental contexts.
+- Extracted **32D voice signatures** using a custom **LSTM** neural network
+- Dynamic sliders to simulate environmental parameters like "Noise Level" and "Movement Level"
+- Matches voices with pinpoint accuracy via **cosine similarity**
 
-<!-- GitHub Contribution Graph -->
-##📈 GitHub Activity Graph:-
-[![Ajitashwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snpathaks&theme=react-dark&hide_border=true&area=true)](https://github.com/snpathaks/github-readme-activity-graph)
+`Python` `TensorFlow` `NumPy` `Scikit-learn` `Matplotlib` `Tkinter`
 
+<br/>
 
+## 💼 Experience
 
+| Role | Organization | Duration |
+|---|---|---|
+| 🤖 **AI and ML Intern** | Digital Blinc for Gayatri AI | Sep 2025 – Nov 2025 |
+| 🐍 **Python Developer Intern** | Coincent.ai | Feb 2024 – Mar 2024 |
 
+**AI and ML Intern — Digital Blinc for Gayatri AI**
+Built a stock price forecasting system using data processing, feature engineering, and machine learning models. Trained and evaluated predictive algorithms while exploring advanced AI techniques, and collaborated with mentors on business requirements. *Tech: Python, FastAPI*
 
+**Python Developer Intern — Coincent.ai**
+Developed strong OOP fundamentals applied to scalable Python applications, focusing on clean architecture, modular code, and real-world problem solving — from idea to execution. *Tech: Python, Flask, Pandas*
 
+<br/>
 
+## 🏆 Achievements & Open Source
 
+![GSSoC](https://img.shields.io/badge/GSSoC%20'25%20%26%20'26-Contributor-FF206E?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-400%2B%20Problems%20Solved-8338EC?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/Hackathons-5%2B%20Participated-3A86FF?style=for-the-badge)
 
+- 🌍 **GSSoC '25 & GSSoC '26** Contributor — worked across **8 open-source projects** (Oct 2025 – Present)
+- 🧠 Solved 400+ DSA problems on [LeetCode](https://leetcode.com/u/snpathaks/) and GeeksforGeeks
+- 🎯 Participated in 5+ Hackathons
+
+**Certificates:** Cloud Computing Understanding (LinkedIn, Sep 2025) · Bits & Bytes (Coursera, Sep 2024) · Python Developer (Coincent.ai, Apr 2024)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snpathaks&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=snpathaks&theme=synthwave&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpathaks&layout=compact&theme=synthwave&hide_border=true" width="55%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=snpathaks&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&color=8338EC&style=for-the-badge&label=PROFILE+VIEWS)
+
+### ⭐ Thanks for stopping by — feel free to star a repo if it helped you!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,8338EC,FF206E&height=120&section=footer" width="100%"/>
+
+</div>
