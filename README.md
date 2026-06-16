@@ -1,3 +1,18 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF206E"/>
+      <stop offset="50%" stop-color="#8338EC"/>
+      <stop offset="100%" stop-color="#3A86FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <path d="M0,180 C300,220 900,140 1200,190 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.08"/>
+  <path d="M0,200 C350,150 850,230 1200,170 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.12"/>
+  <text x="600" y="100" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Hi There! I'm Shalini 👋</text>
+
+</svg>
+
 
 <div align="center">
 
