@@ -60,28 +60,6 @@
 
 <br/>
 
-## 💡 Featured Projects
-
-### 🗣️ [Speak Wise — AI-Powered Presentation & Public Speaking Coach](https://github.com/snpathaks?tab=repositories&q=speak)
-An AI coach that helps users sharpen their communication skills by analyzing content, vocal delivery, and visual presentation, with real-time review powered by computer vision.
-- Analyzed structure and organization of presentation scripts
-- Real-time delivery review using **OpenCV** and **MediaPipe**
-- Delivered personalized, AI-driven feedback for confident, engaging speaking
-
-`Python` `OpenCV` `Flask` `HTML/CSS` `JavaScript` `Docker`
-
----
-
-### 🎙️ [EcoContext VoxID — Voice Recognition with a Green Twist](https://github.com/snpathaks/EcoContext-VoxID)
-A voice recognition system with a colorful Tkinter interface for registering users, identifying voices, and simulating real-world environmental contexts.
-- Extracted **32D voice signatures** using a custom **LSTM** neural network
-- Dynamic sliders to simulate environmental parameters like "Noise Level" and "Movement Level"
-- Matches voices with pinpoint accuracy via **cosine similarity**
-
-`Python` `TensorFlow` `NumPy` `Scikit-learn` `Matplotlib` `Tkinter`
-
-<br/>
-
 ## 💼 Experience
 
 | Role | Organization | Duration |
