@@ -1,3 +1,5 @@
+
+
 <svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -10,7 +12,7 @@
   <path d="M0,180 C300,220 900,140 1200,190 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.08"/>
   <path d="M0,200 C350,150 850,230 1200,170 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.12"/>
   <text x="600" y="100" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">Hi There! I'm Shalini 👋</text>
-
+  <text x="600" y="150" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="20" fill="#ffffff" opacity="0.9">Computer Science Student | AI &amp; ML Enthusiast 🤖</text>
 </svg>
 
 
@@ -21,9 +23,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF206E,8338EC,3A86FF&height=200&section=header&text=Hi%20There!%20I%20am%20Shalini%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF206E&center=true&vCenter=true&width=600&lines=Computer%20Science%20Engineering%20Student;AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96;Open-Source%20Contributor%20%40%20GSSoC;Turning%20Data%20Into%20Decisions%20%E2%9A%A1" alt="Typing SVG" />
+
 
 <br/><br/>
 
