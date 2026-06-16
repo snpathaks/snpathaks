@@ -1,15 +1,13 @@
-<div align="center">
-
-[![Shalini Kumari](https://capsule-render.vercel.app/api?type=rect&color=FF206E,8338EC,3A86FF&height=110&text=Shalini%20Kumari&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=78&descSize=14)](https://github.com/snpathaks)
-
-🎓 CSE Student @ LPU &nbsp;·&nbsp; 🤖 AI/ML Intern &nbsp;·&nbsp; 🌍 GSSoC '25 & '26 Contributor &nbsp;·&nbsp; 🧩 400+ DSA Problems Solved
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/shalinikumari11/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=EA4335)](mailto:pathakshalini266@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/snpathaks)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/snpathaks/)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF206E,8338EC,3A86FF&height=200&section=header&text=Hi%20There,%20I%27m%20Shalini%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF206E&center=true&vCenter=true&width=600&lines=Computer%20Science%20Engineering%20Student;AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96;Open-Source%20Contributor%20%40%20GSSoC;Turning%20Data%20Into%20Decisions%20%E2%9A%A1" alt="Typing SVG" />
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinikumari11/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8338EC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snpathaks)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/snpathaks/)
+ 
 </div>
+<br/>
 
 ### Languages
 
