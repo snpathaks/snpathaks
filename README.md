@@ -1,115 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF206E,8338EC,3A86FF&height=200&section=header&text=Hi%20There,%20I%27m%20Shalini%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96&descAlignY=58&descSize=16" width="100%"/>
+[![Shalini Kumari](https://capsule-render.vercel.app/api?type=rect&color=FF206E,8338EC,3A86FF&height=110&text=Shalini%20Kumari&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=78&descSize=14)](https://github.com/snpathaks)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF206E&center=true&vCenter=true&width=600&lines=Computer%20Science%20Engineering%20Student;AI%20%26%20ML%20Enthusiast%20%F0%9F%A4%96;Open-Source%20Contributor%20%40%20GSSoC;Turning%20Data%20Into%20Decisions%20%E2%9A%A1" alt="Typing SVG" />
+🎓 CSE Student @ LPU &nbsp;·&nbsp; 🤖 AI/ML Intern &nbsp;·&nbsp; 🌍 GSSoC '25 & '26 Contributor &nbsp;·&nbsp; 🧩 400+ DSA Problems Solved
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinikumari11/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8338EC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snpathaks)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/snpathaks/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/shalinikumari11/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail&logoColor=EA4335)](mailto:pathakshalini266@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/snpathaks)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/snpathaks/)
 
 </div>
 
-<br/>
+### Languages
 
-## 🚀 About Me
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://github.com/snpathaks)
+[![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=cplusplus&logoColor=00599C)](https://github.com/snpathaks)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/snpathaks)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=ED8B00)](https://github.com/snpathaks)
+[![Go](https://img.shields.io/badge/-Go-000?&logo=Go)](https://github.com/snpathaks)
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** @ **Lovely Professional University**, Punjab (2023 – 2027)
-- 🤖 Currently exploring **Artificial Intelligence & Machine Learning** — from feature engineering to model deployment
-- 💼 Recently wrapped up an **AI/ML Internship** building a stock price forecasting system
-- 🌍 Active open-source contributor with **GSSoC '25 & GSSoC '26**
-- 🧩 Solved **400+ DSA problems** across LeetCode & GeeksforGeeks
-- ⚡ Participated in **5+ Hackathons**
-- 📫 Reach me at **pathakshalini266@gmail.com**
+### Frameworks & Libraries
 
-<br/>
+[![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)](https://github.com/snpathaks)
+[![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://github.com/snpathaks)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=FF6F00)](https://github.com/snpathaks)
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)](https://github.com/snpathaks)
+[![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)](https://github.com/snpathaks)
+[![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)](https://github.com/snpathaks)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)](https://github.com/snpathaks)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS&logoColor=38B2AC)](https://github.com/snpathaks)
+[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://github.com/snpathaks)
 
-## 🛠️ Tech Stack
+### Tools & Platforms
 
-**Languages**
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2496ED)](https://github.com/snpathaks)
+[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)](https://github.com/snpathaks)
+[![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&logoColor=3FCF8E)](https://github.com/snpathaks)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://github.com/snpathaks)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/snpathaks)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=F37626)](https://github.com/snpathaks)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=VisualStudioCode&logoColor=007ACC)](https://github.com/snpathaks)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### Projects
 
-**Frameworks & Libraries**
+[![Speak Wise](https://img.shields.io/badge/-%F0%9F%97%A3%EF%B8%8F%20Speak%20Wise-000)](https://github.com/snpathaks?tab=repositories&q=speak)
+[![EcoContext VoxID](https://img.shields.io/badge/-%F0%9F%8E%99%EF%B8%8F%20EcoContext%20VoxID-000)](https://github.com/snpathaks/EcoContext-VoxID)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Open Source & Achievements
 
-**Tools & Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br/>
-
-## 💼 Experience
-
-| Role | Organization | Duration |
-|---|---|---|
-| 🤖 **AI and ML Intern** | Digital Blinc for Gayatri AI | Sep 2025 – Nov 2025 |
-| 🐍 **Python Developer Intern** | Coincent.ai | Feb 2024 – Mar 2024 |
-
-**AI and ML Intern — Digital Blinc for Gayatri AI**
-Built a stock price forecasting system using data processing, feature engineering, and machine learning models. Trained and evaluated predictive algorithms while exploring advanced AI techniques, and collaborated with mentors on business requirements. *Tech: Python, FastAPI*
-
-**Python Developer Intern — Coincent.ai**
-Developed strong OOP fundamentals applied to scalable Python applications, focusing on clean architecture, modular code, and real-world problem solving — from idea to execution. *Tech: Python, Flask, Pandas*
-
-<br/>
-
-## 🏆 Achievements & Open Source
-
-![GSSoC](https://img.shields.io/badge/GSSoC%20'25%20%26%20'26-Contributor-FF206E?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-400%2B%20Problems%20Solved-8338EC?style=for-the-badge)
-![Hackathons](https://img.shields.io/badge/Hackathons-5%2B%20Participated-3A86FF?style=for-the-badge)
-
-- 🌍 **GSSoC '25 & GSSoC '26** Contributor — worked across **8 open-source projects** (Oct 2025 – Present)
-- 🧠 Solved 400+ DSA problems on [LeetCode](https://leetcode.com/u/snpathaks/) and GeeksforGeeks
-- 🎯 Participated in 5+ Hackathons
-
-**Certificates:** Cloud Computing Understanding (LinkedIn, Sep 2025) · Bits & Bytes (Coursera, Sep 2024) · Python Developer (Coincent.ai, Apr 2024)
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=snpathaks&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=snpathaks&theme=synthwave&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpathaks&layout=compact&theme=synthwave&hide_border=true" width="55%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=snpathaks&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
+[![GSSoC](https://img.shields.io/badge/-%F0%9F%8C%8D%20GSSoC%20%2725%20%26%20%2726-000)](https://github.com/snpathaks)
+[![DSA](https://img.shields.io/badge/-%F0%9F%A7%A9%20400%2B%20DSA%20Solved-000)](https://leetcode.com/u/snpathaks/)
+[![Hackathons](https://img.shields.io/badge/-%E2%9A%A1%205%2B%20Hackathons-000)](https://github.com/snpathaks)
 
 <br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&color=8338EC&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-stats.vercel.app/api?username=snpathaks&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,FF206E,8338EC,3A86FF,06FFA5&theme=graywhite" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snpathaks&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=000&bg_color=0,06FFA5,3A86FF,8338EC,FF206E&theme=graywhite" height="165"/>
 
-### ⭐ Thanks for stopping by — feel free to star a repo if it helped you!
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3A86FF,8338EC,FF206E&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3A86FF,8338EC,FF206E&height=4&width=600" width="60%"/>
 
 </div>
