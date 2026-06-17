@@ -26,7 +26,7 @@ class Shalini:
     learning   = ["AI", "Machine Learning", "Deep Learning"]
     building   = "cool projects that actually do something 🚀"
     ask_me     = ["Python", "C++", "Data Structures", "ML basics"]
-    fun_fact   = "I debug with coffee ☕ and persistence 💪"
+    fun_fact   = "I debug with spearmint tea🍵 and persistence 💪"
 ```
 
 ---
