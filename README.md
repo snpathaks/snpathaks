@@ -130,11 +130,11 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 </div>
 
 ---
-
+ 
 <h3 align="center">🏆 GitHub Trophies</h3>
-
+ 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=snpathaks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=snpathaks&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="trophies"/>
 </div>
 
 ---
