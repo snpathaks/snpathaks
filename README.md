@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Shalini%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20ML%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=220&section=header&text=Hello,%20I%20am%20Shalini&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Learning%20and%20Building&descAlignY=55&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6EE7F5&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code+%F0%9F%92%A1;Learning+AI+%26+ML+one+model+at+a+time+%F0%9F%A4%96;Building%2C+breaking%2C+and+debugging+for+fun+%F0%9F%9B%A0%EF%B8%8F;Always+up+for+a+good+hackathon+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -25,11 +25,12 @@ based_in: India 🇮🇳
 fun_fact: "I debug with print statements and I'm not ashamed"
 ```
 
-- 🔭 Currently building small AI/ML powered projects
-- 🌱 Deep-diving into **Machine Learning** & **Data Science**
-- 🧩 Sharpening problem-solving on LeetCode, HackerRank & GfG
+- 🎓 CSE undergrad at **Lovely Professional University**, Punjab (2023 – 2027)
+- 🤖 Ex AI/ML Intern @ **Digital Blinc for Gayatri AI**, Ex Python Dev Intern @ **Coincent.ai**
+- 🌱 Deep-diving into **Machine Learning**, **Computer Vision** & **Data Science**
+- 🌍 **GSSoC '25 & '26** open-source contributor
+- 🧩 400+ DSA problems solved on LeetCode & GeeksforGeeks
 - 🎨 Also enjoy design work with Figma, Canva & Krita
-- ⚡ Fun fact: I'd rather refactor code than sleep
 
 </td>
 <td valign="top" width="50%">
@@ -44,13 +45,29 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 
 ### 📌 What I'm exploring
 
-<img src="https://img.shields.io/badge/status-learning-informational?style=for-the-badge&color=6EE7F5&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/open%20to-collab-success?style=for-the-badge&color=A78BFA&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/mood-shipping%20code-orange?style=for-the-badge&color=F59E0B&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/status-learning-informational?style=for-the-badge&color=FFD600&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/open%20to-collab-success?style=for-the-badge&color=FFD600&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/mood-shipping%20code-orange?style=for-the-badge&color=FFD600&labelColor=1a1a1a"/>
 
 </td>
 </tr>
 </table>
+
+---
+
+
+
+---
+
+<h3 align="center">🏅 Achievements & Extracurriculars</h3>
+
+<div align="center">
+
+🌱 **GSSoC '25 & GSSoC '26** Contributor — worked on 4+ open-source projects
+🧩 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks
+🚀 Participated in **5+ Hackathons**
+
+</div>
 
 ---
 
@@ -71,17 +88,27 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**AI / Data Science**
+**Frameworks & Libraries**
 <br>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**Tools & Design**
+**Cloud, DevOps & Databases**
 <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Design Tools**
+<br>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -152,8 +179,8 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20Views&color=6EE7F5&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20Views&color=FFD600&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=100&section=footer" width="100%"/>
 
 </div>
