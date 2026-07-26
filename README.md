@@ -105,9 +105,10 @@ design_tools:
 
 ### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=snpathaks&limit=5&theme=minimal&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=snpathaks&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
+</p>
 
----
 
 
 ### 📫 Reach me on
