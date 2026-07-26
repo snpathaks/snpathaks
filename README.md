@@ -26,12 +26,8 @@
 | 📍 | **Based in** | India 🇮🇳 |
 | 😄 | **Fun fact** | I debug with print statements and I'm not ashamed |
 
-- 🎓 CSE undergrad at **Lovely Professional University**, Punjab (2023 – 2027)
-- 🤖 Ex AI/ML Intern @ **Digital Blinc for Gayatri AI**, Ex Python Dev Intern @ **Coincent.ai**
 - 🌱 Deep-diving into **Machine Learning**, **Computer Vision** & **Data Science**
-- 🌍 **GSSoC '25 & '26** open-source contributor
-- 🧩 400+ DSA problems solved on LeetCode & GeeksforGeeks
-- 🎨 Also enjoy design work with Figma, Canva & Krita
+
 
 ## 🎯 Quick Links
 
@@ -113,11 +109,6 @@ design_tools:
 
 ---
 
-### 💡 Random Dev Wisdom
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ### 📫 Reach me on
 
@@ -128,6 +119,12 @@ design_tools:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pathakshalxj1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ileriayo)
 
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20Views&color=000000&style=for-the-badge)
 
+<br><br>
+
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)](https://capsule-render.vercel.app)
+
+</div>
