@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=220&section=header&text=Hello,%20I%20am%20Shalini&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=Learning%20and%20Building&descAlignY=55&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=Hello,%20I%20am%20Shalini&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Learning%20and%20Building&descAlignY=55&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code+%F0%9F%92%A1;AI%2FML+Intern+%40+Digital+Blinc+%26+Coincent.ai+%F0%9F%A4%96;GSSoC+%2725+%26+%2726+Open-Source+Contributor+%F0%9F%8C%B1;400%2B+DSA+Problems+Solved+%F0%9F%A7%A9" alt="Typing SVG" />
 </a>
 
 </div>
@@ -56,24 +56,6 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 ---
 
 
-
----
-
-<h3 align="center">🏅 Achievements & Extracurriculars</h3>
-
-<div align="center">
-
-🌱 **GSSoC '25 & GSSoC '26** Contributor — worked on 4+ open-source projects
-🧩 Solved **400+ DSA problems** on LeetCode & GeeksforGeeks
-🚀 Participated in **5+ Hackathons**
-
-</div>
-
----
-
-<h3 align="center">🛠️ Tech Arsenal</h3>
-
-<div align="center">
 
 **Languages**
 <br>
@@ -130,9 +112,9 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 </div>
 
 ---
- 
+
 <h3 align="center">🏆 GitHub Trophies</h3>
- 
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=snpathaks&theme=gruvbox&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" alt="trophies"/>
 </div>
@@ -169,18 +151,18 @@ fun_fact: "I debug with print statements and I'm not ashamed"
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Something
+### 📫 Reach me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinikumari4323/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snpathaks/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pathakshalini266)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pathakshalxj1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300007A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinikumari4323/)   
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakshalini266@gmail.com)   
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/snpathaks/)   
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pathakshalini266)   
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pathakshalxj1/)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20Views&color=FFD600&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=snpathaks&label=Profile%20Views&color=000000&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
