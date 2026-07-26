@@ -1,6 +1,16 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Hello,%20I%20am%20Shalini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20and%20Building&descAlignY=55&descSize=18&descColor=ffffff)](https://capsule-render.vercel.app)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&lines=Turning+curiosity+into+code+%F0%9F%92%BB)](https://git.io/typing-svg)
+<h1>Hello Visitors!</h1>
+
+<img
+  width="200"
+  height="200"
+  alt="stitchGIF"
+  src="https://github.com/user-attachments/assets/8be95aab-e74e-49a5-8203-a6fc066ddefe"
+/>
+
+</div>
+
 
 ## 🧠 About Me
 
@@ -30,7 +40,7 @@
 - 🧮 [LeetCode](https://leetcode.com/u/snpathaks/)
 - 🏅 [HackerRank](https://www.hackerrank.com/profile/pathakshalini266)
 - 📗 [GeeksforGeeks](https://www.geeksforgeeks.org/user/pathakshalxj1/)
-- 🌐 [Portfolio](https://github.com/Ileriayo)
+
 
 ## 📌 What I'm Exploring
 
@@ -38,24 +48,43 @@
 ![Open](https://img.shields.io/badge/open%20to-collab-000000?style=for-the-badge&labelColor=000000&color=000000)
 ![Mood](https://img.shields.io/badge/mood-shipping%20code-000000?style=for-the-badge&labelColor=000000&color=000000)
 
----
-
-**Languages**
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-
-**Web**
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-**Cloud, DevOps & Databases**
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-**Design Tools**
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-000000?style=for-the-badge&logo=krita&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=white)
-
----
+## 🧰 Tech Stack
+ 
+```yaml
+languages:
+  - C++
+  - C
+  - Python
+  - Java
+  - JavaScript
+ 
+web:
+  - HTML5
+  - CSS3
+ 
+frameworks_and_libraries:
+  - Flask
+  - FastAPI
+  - NumPy
+  - Pandas
+  - scikit-learn
+  - TensorFlow
+  - OpenCV
+  - Matplotlib
+ 
+cloud_devops_databases:
+  - Docker
+  - AWS
+  - MySQL
+  - Git
+  - GitHub
+ 
+design_tools:
+  - Figma
+  - Canva
+  - Krita
+  - Adobe
+```
 
 ### 📊 GitHub Stats
 
