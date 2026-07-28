@@ -26,7 +26,7 @@
 | 📍 | **Based in** | India 🇮🇳 |
 | 😄 | **Fun fact** | I debug with print statements and I'm not ashamed |
 
-- 🌱 Deep-diving into **Machine Learning**, **Computer Vision** & **Data Science**
+🌱 Deep-diving into **Machine Learning**, **Computer Vision** & **Data Science**
 
 
 ## 🎯 Quick Links
